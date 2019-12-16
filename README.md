@@ -7,5 +7,6 @@ powershell script to send message via dingding robot
 
 使用
 如果要@多人，手机号码用逗号分隔
-使用了最简单的text类型，如果要修改消息类型和格式请自行替换$body部分，详见顶顶文档
+使用了最简单的text类型，如果要修改消息类型和格式请自行替换$body部分
+详见顶顶文档
 https://ding-doc.dingtalk.com/doc#/serverapi2/qf2nxq
