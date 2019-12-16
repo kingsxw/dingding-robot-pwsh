@@ -1,3 +1,3 @@
 CHANGELOG.md merge=union
 * text=auto
-*.ps1 linguist-language=Powershell
+*.ps1 linguist-language=PowerShell
