@@ -1,6 +1,3 @@
 CHANGELOG.md merge=union
 * text=auto
-*.png binary
-*.rtf binary
-testablescript.ps1 text eol=lf
-TestFileCatalog.txt text eol=lf
+*.ps1 linguist-language=Powershell
