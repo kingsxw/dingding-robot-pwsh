@@ -37,4 +37,5 @@ $body = @"
 }
 "@
 
+[array]$body = [System.Text.Encoding]::UTF8.GetBytes($body)
 Invoke-WebRequest -Uri $url -Method 'POST' -Headers $header -Body $body
